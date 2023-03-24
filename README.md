@@ -2,7 +2,7 @@
     <img width="25%" src="src/web/assets/images/metacube_block.png"> 
 </p>
 
-<h1 align="center" width="100%">METACUBE</h1>
+<h1 align="center" width="100%">HYPERCUBE</h1>
 
 <p align="center" width="100%">
     PROJECT METACUBE: <a href="https://github.com/MetaTHC/metacube">PRIVATE REPO</a><br>
